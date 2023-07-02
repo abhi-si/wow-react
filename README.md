@@ -1,5 +1,5 @@
 
-//read parcel documentation
+//What parcel do
 #parcel
 -dev build
 -created a local server
